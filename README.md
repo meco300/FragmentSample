@@ -1,2 +1,4 @@
 FragmentSample
 ==============
+
+using Android Studio
